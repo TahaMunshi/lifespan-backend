@@ -1,0 +1,1 @@
+declare module '@hamza-salsoft/email-utils';
